@@ -6,7 +6,7 @@ const index = () => {
   return (
     <SafeAreaView>
         <View>
-            <Text>index</Text>
+            <Text>carl repo</Text>
         </View>
     </SafeAreaView>
   )
