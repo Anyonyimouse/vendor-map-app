@@ -4,9 +4,9 @@ import { View } from 'react-native';
 
 export default function Root() {
   return (
-    <View style={{ flex: 1 }}>
+    <View style={{ flex: 1 }}>asd
       <SafeAreaView style={{ flex: 1 }}>
-        <Slot />
+        <Slot/>
       </SafeAreaView>
     </View>
   );
